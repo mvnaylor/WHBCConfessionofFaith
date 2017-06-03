@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WHBC Confession of Faith</string>
+    <string name="button1">The Scriptures</string>
+    <string name="button2">The True God</string>
+    <string name="button3">The Fall of Man</string>
+    <string name="button4">The Way of Salvation</string>
+    <string name="button5">Justification</string>
+    <string name="button6">The Freeness of Salvation</string>
+    <string name="button7">Grace in Regeneration</string>
+    <string name="paragraph1">We believe that the Holy Bible was written by men divinely inspired, and is a perfect treasure of heavenly instruction; that it has God for its author, salvation for its end, and truth without any mixture of error for its matter; that it reveals the principles by which God will judge us; and therefore is, and shall remain to the end of the world, the true center of Christian union, and the supreme standard by which all human conduct, creeds, and opinions should be tried.</string>
+    <string name="paragraph2">section two text.</string>
+    <string name="paragraph3">section three text.</string>
+</resources>
